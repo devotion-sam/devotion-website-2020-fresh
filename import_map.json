@@ -7,6 +7,9 @@
     "@twind": "./utils/twind.ts",
     "twind": "https://esm.sh/twind@0.16.17",
     "twind/": "https://esm.sh/twind@0.16.17/",
-    "typedjs": "https://esm.sh/typed.js"
+    "typedjs": "https://esm.sh/typed.js",
+    "swiper": "https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.esm.browser.min.js",
+    "lazysizes": "https://esm.sh/lazysizes",
+    "lazysizesRias": "https://esm.sh/lazysizes/plugins/rias/ls.rias"
   }
 }
