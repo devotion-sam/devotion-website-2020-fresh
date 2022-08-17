@@ -26,6 +26,8 @@ export default function ServiceIcons(
                 >
                   <div class={tw`w-20 h-20 ml-auto mr-auto`}>
                     <img
+                      width={80}
+                      height={69}
                       src={`${service.elements.icon.value[0].url}?auto=format`}
                     />
                   </div>
