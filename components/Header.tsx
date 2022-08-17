@@ -3,7 +3,7 @@ import { h } from "preact";
 import { tw } from "twind";
 import MenuButton from "../islands/MenuButton.tsx";
 
-export default function Header(props) {
+export default function Header(props: { spacer?: boolean }) {
   return (
     <header class={tw`relative`}>
       {props.spacer && <div class={tw`h-20 md:h-24`} />}
